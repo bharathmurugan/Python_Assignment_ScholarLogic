@@ -14,7 +14,7 @@ A collection of my Python coursework, from computer architecture basics to contr
 | 2 | **Variables, Data Types & Basic Programs** | Naming rules, snake/Pascal/camel case, primitive vs non-primitive types, simple interest, average marks, GST calculation, variable swapping |
 | 3 | **Input Processing & Type Casting** | Tuple unpacking (`a, b = b, a`), `input()`, `int()` casting, HackerRank-style raw stdin |
 | 4 | **Operators & Conditional Control Flow** | Operator categories, `//` vs `/`, `**`, indentation rules, `if / elif / else`, `assert`, discount engine, SaaS usage billing |
-| 4B | **Conditional Logic & Real-Time Business Systems** | Uber surge pricing, AWS auto scaling predictor, cloud SLA refund calculator, Swiggy weather advisory |
+| 5 | **Conditional Logic & Real-Time Business Systems** | Uber surge pricing, AWS auto scaling predictor, cloud SLA refund calculator, Swiggy weather advisory |
 | 6 | **Loop Control, Strings, Indexing & Slicing** | `break`, `pass`, `while` loops, odd/even generators, positive/negative indexing, slicing, placement interview questions |
 | 7 | **String Operations, Case Normalization & Web Integration** | Slicing engine, case-insensitive quiz with `.lower()`, ATM PIN retry and lockout logic, Flask routes |
 | 8 | **Python Industry Engineering Assignment** | String parsing, conditional logic, dynamic pricing, inventory processing, authentication & lockout |
