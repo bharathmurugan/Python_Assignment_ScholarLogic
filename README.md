@@ -54,20 +54,6 @@ Assignment 8 focuses on applying Python programming concepts to real-world busin
   - Maximum 3 attempts
   - Account lockout logic
 
-### Key Concepts
-
-```text
-String Indexing
-String Slicing
-Input Validation
-Type Casting
-if / elif / else
-Boolean Operators
-for Loops
-while Loops
-State Management
-Authentication Logic
-Security Lockout
 🧩 Featured Mini Projects
 Uber Surge Pricing Engine: applies a 2.5x fare multiplier only when rain, peak hours and low driver supply all hold.
 AWS Auto Scaling Predictor: predicts total users from current load and growth rate, and decides whether to launch a new server.
@@ -87,6 +73,7 @@ Language: Python 3
 Web Framework: Flask (Assignment 7)
 Core Concepts: String manipulation, indexing, slicing, type casting, conditional logic, Boolean operators, loops and input validation
 Tools: Google Colab, VS Code, Git & GitHub Desktop
+
 📁 Suggested Repository Structure
 python-assignments/
 ├── assignment-1-computer-architecture/
@@ -112,6 +99,7 @@ python app.py
 
 # Open the application
 # http://127.0.0.1:5000/
+
 🎯 Key Takeaways
 Writing clean, readable control flow with correct indentation
 Translating business rules into conditions and boundary-case tests (e.g. == 1000 vs > 1000)
@@ -124,6 +112,7 @@ Building inventory monitoring and restock logic
 Implementing basic authentication and security lockout logic
 Extracting structured information using string indexing and slicing
 Taking a terminal script and turning it into a web interface
+
 📌 Status
 
 Actively updated as new modules are completed.
